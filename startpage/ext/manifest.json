@@ -1,9 +1,0 @@
-{
-  "manifest_version": 2,
-  "name": "ntp",
-  "chrome_url_overrides": {
-	  "newtab": "r.htm"
-  },
-  "permissions": [ "storage", "file:///*" ],
-  "version": "1.0.4"
-}
